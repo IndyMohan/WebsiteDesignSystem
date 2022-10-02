@@ -1,0 +1,66 @@
+.color-thistle {
+    background-color: thistle;
+    border: black 2px solid;
+    padding-left: 5px;
+    /* margin-right: 1480px; */
+    border-radius: 10px;
+    height: 120px;
+}
+
+.color-lavender-purple {
+    background-color: #957DAD;
+    border: black 2px solid;
+    padding-left: 5px;
+    /* margin-right: 1480px; */
+    border-radius: 10px;
+    height: 120px;
+}
+
+.color-pastel-violet {
+    background-color: #D291BC;
+    border: black 2px solid;
+    padding-left: 5px;
+    /* margin-right: 1480px; */
+    border-radius: 10px;
+    height: 120px;
+
+}
+.color-cotten-candy {
+    background-color: #FEC8D8;
+    border: black 2px solid;
+    padding-left: 5px;
+    /* margin-right: 1480px; */
+    border-radius: 10px;
+    height: 120px;
+    
+}
+
+.color-lumber {
+    background-color: #FFDFD3;
+    border: black 2px solid;
+    padding-left: 5px;
+    /* margin-right: 1480px; */
+    border-radius: 10px;
+    height: 120px;
+
+}
+
+ .color-panel { 
+  float: left;
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+ 
+ 
+}
+
+
+
+
+body {
+    font-family:'Poppins', sans-serif;
+    
+}
+
+
+
