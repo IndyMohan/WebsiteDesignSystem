@@ -45,12 +45,11 @@
 
 }
 
- .color-panel { 
+ .color-panel, .font-panel { 
   float: left;
   width: 200px;
-  height: 300px;
+  height: 200px;
   margin: 10px;
- 
  
 }
 
@@ -62,5 +61,14 @@ body {
     
 }
 
+.all-fonts, .all-text-styles {
 
+margin-top: 300px;
+
+
+}
+
+.space-mono, .roboto-condensed, .ubuntu, .nunito {
+    text-decoration: underline;
+}
 
