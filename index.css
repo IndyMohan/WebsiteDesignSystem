@@ -47,7 +47,7 @@
 
  .color-panel, .font-panel { 
   float: left;
-  width: 200px;
+  width: 240px;
   height: 200px;
   margin: 10px;
  
@@ -55,20 +55,32 @@
 
 
 
-
 body {
     font-family:'Poppins', sans-serif;
-    
 }
 
 .all-fonts, .all-text-styles {
-
 margin-top: 300px;
-
-
+border-top: 3px solid #bbb;
 }
 
-.space-mono, .roboto-condensed, .ubuntu, .nunito {
+.space-mono.name, .roboto-condensed.name, .ubuntu.name, .nunito.name {
     text-decoration: underline;
+}
+
+
+.space-mono-2, .roboto-condensed-2, .ubuntu-2, .nunito-2 {
+    font-weight: bold;
+}
+
+.space-mono-3, .roboto-condensed-3, .ubuntu-3, .nunito-3 {
+    font-style: italic;
+    font-weight: bold;
+    opacity: 1;
+}
+
+
+.all-colors, .index {
+    border-top: 3px solid #bbb;
 }
 
